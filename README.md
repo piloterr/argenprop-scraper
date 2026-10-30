@@ -149,9 +149,9 @@ Example response from the API reference, abridged — real values depend on the 
   "url": "https://www.argenprop.com/departamento-en-venta-en-palermo-chico-5-ambientes--20724993",
   "city": "Palermo",
   "agent": {
-    "url": "https://www.argenprop.com/inmobiliarias/lopez-castromil-propiedades",
-    "name": "LOPEZ CASTROMIL PROPIEDADES",
-    "image": "https://www.argenprop.com/static-content/452241_a/6cb48616-15c9-4711-917d-b50a02bd53a7_small.jpg"
+    "url": "example",
+    "name": "example",
+    "image": "example"
   },
   "price": 2400000,
   "rooms": 5,
